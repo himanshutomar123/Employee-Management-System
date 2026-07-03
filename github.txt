@@ -1,0 +1,26 @@
+PS C:\Users\Himanshu Tomar\Desktop\HTML PROJECTS> git init
+Initialized empty Git repository in C:/Users/Himanshu Tomar/Desktop/HTML PROJECTS/.git/
+PS C:\Users\Himanshu Tomar\Desktop\HTML PROJECTS> git add .
+PS C:\Users\Himanshu Tomar\Desktop\HTML PROJECTS> git commit -m "Initial Commit"
+[master (root-commit) 2c7fc8e] Initial Commit
+ 6 files changed, 575 insertions(+)
+ create mode 100644 example.html
+ create mode 100644 login.css
+ create mode 100644 login.html
+ create mode 100644 name.html
+ create mode 100644 navbar.html
+ create mode 100644 portfolio.html
+PS C:\Users\Himanshu Tomar\Desktop\HTML PROJECTS> git remote add origin https://github.com/himanshutomar123/HTML-TASK.git
+PS C:\Users\Himanshu Tomar\Desktop\HTML PROJECTS> git branch -M main
+PS C:\Users\Himanshu Tomar\Desktop\HTML PROJECTS> git push -u origin main
+Enumerating objects: 8, done.
+Counting objects: 100% (8/8), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (8/8), done.
+Writing objects: 100% (8/8), 4.97 KiB | 636.00 KiB/s, done.
+Total 8 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+To https://github.com/himanshutomar123/HTML-TASK.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+PS C:\Users\Himanshu Tomar\Desktop\HTML PROJECTS> 
+
